@@ -1,0 +1,2 @@
+# P6_Classifiez_automatiquement_des_biens_de_consommation
+Openclassroom Data Scientist project 6
