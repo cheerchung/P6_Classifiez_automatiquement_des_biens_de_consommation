@@ -25,4 +25,6 @@ Computer Vision : Bag-of-feature, SIFT, ORB, convolutional neural network (VGG16
 Feature combination and reduction : TSNE<BR>
 Data augmentation<br>
 TPU in Google colab<br>
+notebook in colab : 
+https://colab.research.google.com/drive/1NBtE0HIxrZftEyPybUPxRhrHIDG4OiIk?usp=sharing
 
